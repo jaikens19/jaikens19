@@ -10,8 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaikens19&show_icons=true&locale=en" alt="jaikens19" /></p>
 <div>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,6 +25,9 @@
 <img align="center" alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
 <img align="center" alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaikens19&show_icons=true&locale=en" alt="jaikens19" /></p>
+
 
 
 
