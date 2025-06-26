@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm James Aikens</h1>
-<h3 align="center">A passionate FullStack Developer living in Houston, TX. Currently enrolled in App Academy's 24 Week Full Stack Course </h3>
+<h3 align="center">A passionate FullStack Developer working at Zendesk. Graduated App Academy's 24 Week Full Stack Course </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaikens19&label=Profile%20views&color=0e75b6&style=flat" alt="jaikens19" /> </p>
 
